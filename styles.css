@@ -13,7 +13,7 @@ img{
 
 .center{
     display: block;
-    margin-left: auto;
+    margin-left: 650px;
     margin-right: auto;
     width: 50%;
 }
@@ -31,13 +31,13 @@ figcaption{
 }
 
 .NOVA {
-    width: 700px;
-    height: 450px;
+    width: 800px;
+    height: 550px;
 }
 
 .GMU{
-    width: 700px;
-    height: 400px;
+    width: 800px;
+    height: 550px;
 }
 
 .other{

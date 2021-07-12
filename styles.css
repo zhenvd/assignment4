@@ -40,6 +40,21 @@ figcaption{
     height: 550px;
 }
 
+#UMUC-title{
+    color: red;
+}
+
+#TCC-title{
+    color:aqua
+}
+
+#NOVA-title{
+    color:green;
+}
+
+#GMU-title{
+    color: green;
+}
 .other{
     text-align: center;
 }

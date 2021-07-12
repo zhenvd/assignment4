@@ -1,18 +1,45 @@
 body{
     background-color: orange;
 }
+
+h2{
+    text-align: center;
+}
+
 img{
     width: 800px;
+
 }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p{
+    text-align: center;
+}
+
+figcaption{
+    text-align: center;
+}
+
 .UMUC{
     width: 800px;
 }
+
 .NOVA {
-    
     width: 700px;
     height: 450px;
 }
+
 .GMU{
     width: 700px;
     height: 400px;
+}
+
+.other{
+    text-align: center;
 }
